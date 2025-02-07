@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
 cover: >-
-  https://images.unsplash.com/photo-1484503793037-5c9644d6a80a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHx3aGl0ZXxlbnwwfHx8fDE3Mzg5NjY0MzB8MA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1600172454284-934feca24ccd?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHx3aGl0ZXxlbnwwfHx8fDE3Mzg5NjY0MzB8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
@@ -10,11 +10,11 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
 ---
@@ -29,4 +29,4 @@ Feel free to browse through the sections, dive into the technical details, and e
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Devco</strong></td><td>Devco Documetation Collection (DC)</td><td></td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Eulionline</strong></td><td>Eulionline Documetation Collection (DC)</td><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>BetterTkinter</td><td>BetterTkinter Documetation Collection (DC)</td><td></td><td></td><td></td><td></td></tr><tr><td>Ideora</td><td>Ideora Documetation Collection (DC)</td><td></td><td></td><td></td><td></td></tr><tr><td>Velaris</td><td>Velaris Discord Bot Documetation</td><td></td><td></td><td></td><td></td></tr><tr><td>Vocules</td><td>Vocules Documetation Collection (DC)</td><td></td><td></td><td></td><td></td></tr><tr><td>ReturnTime</td><td>ReturnTime Documetation</td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Devco</strong></td><td>Devco Documetation Collection (DC)</td><td></td><td><a href=".gitbook/assets/t54.png">t54.png</a></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Eulionline</strong></td><td>Eulionline Documetation Collection (DC)</td><td></td><td><a href=".gitbook/assets/76j.png">76j.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>BetterTkinter</td><td>BetterTkinter Documetation Collection (DC)</td><td></td><td><a href=".gitbook/assets/l68.png">l68.png</a></td><td></td><td></td></tr><tr><td>Ideora</td><td>Ideora Documetation Collection (DC)</td><td></td><td><a href=".gitbook/assets/5464.png">5464.png</a></td><td></td><td></td></tr><tr><td>Velaris</td><td>Velaris Discord Bot Documetation</td><td></td><td><a href=".gitbook/assets/h75473.png">h75473.png</a></td><td></td><td></td></tr><tr><td>Vocules</td><td>Vocules Documetation Collection (DC)</td><td></td><td><a href=".gitbook/assets/m87ß.png">m87ß.png</a></td><td></td><td></td></tr><tr><td>ReturnTime</td><td>ReturnTime Documetation</td><td></td><td><a href=".gitbook/assets/5k54.png">5k54.png</a></td><td></td><td></td></tr></tbody></table>
