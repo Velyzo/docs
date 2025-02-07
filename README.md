@@ -1,12 +1,6 @@
 ---
 icon: hand-wave
-cover: >-
-  https://images.unsplash.com/photo-1600172454284-934feca24ccd?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHx3aGl0ZXxlbnwwfHx8fDE3Mzg5NjY0MzB8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
