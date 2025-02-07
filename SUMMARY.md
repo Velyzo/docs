@@ -19,6 +19,10 @@
   * [MacOS](eulionline/desktop/macos.md)
   * [Linux](eulionline/desktop/linux.md)
 
+## 🔗 Connecto
+
+* [⚖️ Overview](connecto/overview.md)
+
 ## Vocules
 
 * [⚖️ Overview](vocules/overview.md)
