@@ -21,10 +21,12 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Welcome to the Documentation Hub for all of our Projects!
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Here, you'll find comprehensive resources to guide you through our diverse range of initiatives. Whether you're a developer, a collaborator, or just exploring, we aim to provide clear, structured, and easy-to-follow documentation to support your journey with us.
+
+Feel free to browse through the sections, dive into the technical details, and explore how you can contribute or make use of our work. We're excited to have you here and look forward to seeing what we can accomplish together.
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Devco</strong></td><td>Devco Documetation Collection (DC)</td><td></td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Eulionline</strong></td><td>Eulionline Documetation Collection (DC)</td><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>BetterTkinter</td><td>BetterTkinter Documetation Collection (DC)</td><td></td><td></td><td></td><td></td></tr><tr><td>Ideora</td><td>Ideora Documetation Collection (DC)</td><td></td><td></td><td></td><td></td></tr><tr><td>Velaris</td><td>Velaris Discord Bot Documetation</td><td></td><td></td><td></td><td></td></tr><tr><td>Vocules</td><td>Vocules Documetation Collection (DC)</td><td></td><td></td><td></td><td></td></tr><tr><td>ReturnTime</td><td>ReturnTime Documetation</td><td></td><td></td><td></td><td></td></tr></tbody></table>
