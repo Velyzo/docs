@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
 cover: >-
-  https://images.unsplash.com/photo-1737981064643-fe1bd2ca7164?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg5NjU2NTh8&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1471958680802-1345a694ba6d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxoaWxsc3xlbnwwfHx8fDE3Mzg5NjYzODZ8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
