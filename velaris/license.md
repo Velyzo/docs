@@ -1,4 +1,4 @@
-# Page
+# 📡 License
 
 MIT License
 
