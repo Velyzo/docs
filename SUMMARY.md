@@ -31,3 +31,26 @@
   * [Windows](devco/desktop/windows.md)
   * [MacOS](devco/desktop/macos.md)
   * [Linux](devco/desktop/linux.md)
+
+## Ideora
+
+* [⚖️ Overview](ideora/overview.md)
+* [🌐 Website](ideora/website.md)
+* [📱 Mobile](ideora/mobile/README.md)
+  * [IOS](ideora/mobile/ios.md)
+
+## BetterTkinter
+
+* [⚖️ Overview](bettertkinter/overview.md)
+
+## Velaris
+
+* [⚖️ Overview](velaris/overview.md)
+
+## Vocules
+
+* [⚖️ Overview](vocules/overview.md)
+* [🌐 Website](vocules/website.md)
+* [📱 Mobile](vocules/mobile/README.md)
+  * [IOS](vocules/mobile/ios.md)
+  * [Android](vocules/mobile/android.md)
