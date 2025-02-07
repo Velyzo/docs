@@ -19,6 +19,26 @@
   * [MacOS](eulionline/desktop/macos.md)
   * [Linux](eulionline/desktop/linux.md)
 
+## Vocules
+
+* [⚖️ Overview](vocules/overview.md)
+* [🌐 Website](vocules/website.md)
+* [📱 Mobile](vocules/mobile/README.md)
+  * [IOS](vocules/mobile/ios.md)
+  * [Android](vocules/mobile/android.md)
+
+## Velaris
+
+* [⚖️ Overview](velaris/overview.md)
+* [🤖 Commands](velaris/commands/README.md)
+  * [Help](velaris/commands/help.md)
+  * [Text Files](velaris/commands/text-files.md)
+  * [Infos](velaris/commands/infos.md)
+  * [Other](velaris/commands/other.md)
+* [💿 Terms of Service](velaris/terms-of-service.md)
+* [🔏 Privacy Policy](velaris/privacy-policy.md)
+* [📡 License](velaris/license.md)
+
 ## Devco
 
 * [⚖️ Overview](devco/overview.md)
@@ -42,26 +62,6 @@
 ## BetterTkinter
 
 * [⚖️ Overview](bettertkinter/overview.md)
-
-## Velaris
-
-* [⚖️ Overview](velaris/overview.md)
-* [🤖 Commands](velaris/commands/README.md)
-  * [Help](velaris/commands/help.md)
-  * [Text Files](velaris/commands/text-files.md)
-  * [Infos](velaris/commands/infos.md)
-  * [Other](velaris/commands/other.md)
-* [💿 Terms of Service](velaris/terms-of-service.md)
-* [🔏 Privacy Policy](velaris/privacy-policy.md)
-* [📡 License](velaris/license.md)
-
-## Vocules
-
-* [⚖️ Overview](vocules/overview.md)
-* [🌐 Website](vocules/website.md)
-* [📱 Mobile](vocules/mobile/README.md)
-  * [IOS](vocules/mobile/ios.md)
-  * [Android](vocules/mobile/android.md)
 
 ## ReturnTime
 
