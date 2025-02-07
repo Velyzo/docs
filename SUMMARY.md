@@ -53,6 +53,7 @@
   * [Other](velaris/commands/other.md)
 * [💿 Terms of Service](velaris/terms-of-service.md)
 * [🔏 Privacy Policy](velaris/privacy-policy.md)
+* [Page](velaris/page.md)
 
 ## Vocules
 
