@@ -14,9 +14,9 @@
 * [📱 Mobile](eulionline/mobile/README.md)
   * [IOS](eulionline/mobile/ios.md)
   * [Android](eulionline/mobile/android.md)
-* [💻 Desktop](devco/desktop/README.md)
-  * [Windows](devco/desktop/windows.md)
-  * [MacOS](devco/desktop/macos.md)
+* [💻 Desktop](eulionline/desktop/README.md)
+  * [Windows](eulionline/desktop/windows.md)
+  * [MacOS](eulionline/desktop/macos.md)
   * [Linux](eulionline/desktop/linux.md)
 
 ## Devco
