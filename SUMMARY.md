@@ -69,5 +69,6 @@
 
 ## Waveora
 
+* [⚖️ Overview](waveora/overview.md)
 * [Waveora Desktop](waveora/waveora-desktop.md)
 * [Waveora Server](waveora/waveora-server.md)
