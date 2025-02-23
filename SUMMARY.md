@@ -2,10 +2,6 @@
 
 * [👋 Welcome](README.md)
 
-## Getting Started
-
-* [🎯 Quickstart](getting-started/quickstart.md)
-
 ## Eulionline
 
 * [⚖️ Overview](eulionline/overview.md)
@@ -70,3 +66,8 @@
 ## ReturnTime
 
 * [⚖️ Overview](returntime/overview.md)
+
+## Waveora
+
+* [Waveora Desktop](waveora/waveora-desktop.md)
+* [Waveora Server](waveora/waveora-server.md)
