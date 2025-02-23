@@ -1,2 +1,2 @@
-# Waveora Server
+# 🌊 Waveora Server
 

@@ -1,2 +1,2 @@
-# Waveora Desktop
+# 🌊 Waveora Desktop
 
