@@ -67,8 +67,8 @@
 
 * [⚖️ Overview](returntime/overview.md)
 
-## Waveora
+## Wavora
 
-* [⚖️ Overview](waveora/overview.md)
-* [🌊 Wavora Desktop](waveora/wavora-desktop.md)
-* [🌊 Waveora Server](waveora/waveora-server.md)
+* [⚖️ Overview](wavora/overview.md)
+* [🌊 Wavora Desktop](wavora/wavora-desktop.md)
+* [🌊 Wavora Server](wavora/wavora-server.md)
