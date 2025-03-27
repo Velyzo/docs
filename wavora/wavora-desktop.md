@@ -1,2 +1,0 @@
-# 🌊 Wavora Desktop
-
