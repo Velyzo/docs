@@ -1,5 +1,45 @@
 # ⚖️ Overview
 
-Welcome to the Velaris Documetation! here you can see all commands from our discord server and more stuff related to the Bot!
+Welcome to the **Velaris Documentation**!  
+Here you’ll find a complete overview of all available **commands**, **features**, and additional information about our Discord bot.
 
-User Install : [https://discord.com/oauth2/authorize?client\_id=1233747927000678420](https://discord.com/oauth2/authorize?client_id=1233747927000678420) (Read the Terms of Service and the Privacy Policy)
+---
+
+## 🔗 Bot Installation
+
+You can add the bot to your server using the following link:
+
+```
+https://discord.com/oauth2/authorize?client_id=1233747927000678420
+```
+
+> ⚠️ **Note:** Please read our [Terms of Service](#) and [Privacy Policy](#) before installing.
+
+---
+
+## 📜 Quickstart – Example Command
+
+Try this command to get started:
+
+```
+/help
+```
+
+This will show you a list of available categories and functions.
+
+---
+
+## 🧠 What Can Velaris Do?
+
+- 🎮 Server management – [View commands](https://docs.velis.me/velaris/commands/server)
+- 🎵 Music player – [View commands](https://docs.velis.me/velaris/commands/music)
+- ⚙️ Role automation & welcome messages – [View commands](https://docs.velis.me/velaris/commands/utility)
+- 📊 Server stats & logging – [View commands](https://docs.velis.me/velaris/commands/logs)
+- 🔒 Moderation tools – [View commands](https://docs.velis.me/velaris/commands/moderation)
+
+---
+
+## 📂 Additional Sections
+
+- 👉 [All Slash Commands](https://docs.velis.me/velaris/commands)
+- ❓ [FAQ & Troubleshooting](https://docs.velis.me/velaris/faq)
