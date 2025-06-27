@@ -31,15 +31,15 @@ This will show you a list of available categories and functions.
 
 ## 🧠 What Can Velaris Do?
 
-- 🎮 Server management – [View commands](https://docs.velis.me/velaris/commands/server)
-- 🎵 Music player – [View commands](https://docs.velis.me/velaris/commands/music)
-- ⚙️ Role automation & welcome messages – [View commands](https://docs.velis.me/velaris/commands/utility)
-- 📊 Server stats & logging – [View commands](https://docs.velis.me/velaris/commands/logs)
-- 🔒 Moderation tools – [View commands](https://docs.velis.me/velaris/commands/moderation)
+- 🎮 Server management – [View commands](https://docs.velyzo.de/velaris/commands/server)
+- 🎵 Music player – [View commands](https://docs.velyzo.de/velaris/commands/music)
+- ⚙️ Role automation & welcome messages – [View commands](https://docs.velyzo.de/velaris/commands/utility)
+- 📊 Server stats & logging – [View commands](https://docs.velyzo.de/velaris/commands/logs)
+- 🔒 Moderation tools – [View commands](https://docs.velyzo.de/velaris/commands/moderation)
 
 ---
 
 ## 📂 Additional Sections
 
-- 👉 [All Slash Commands](https://docs.velis.me/velaris/commands)
-- ❓ [FAQ & Troubleshooting](https://docs.velis.me/velaris/faq)
+- 👉 [All Slash Commands](https://docs.velyzo.de/velaris/commands)
+- ❓ [FAQ & Troubleshooting](https://docs.velyzo.de/velaris/faq)

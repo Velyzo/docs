@@ -37,7 +37,7 @@
 
 ## 📩 Support
 
-📧 velis.help@gmail.com
+📧 Velyzo.help@gmail.com
 
 ---
 

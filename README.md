@@ -20,4 +20,4 @@ Here, you'll find comprehensive resources to guide you through our diverse range
 
 Feel free to browse through the sections, dive into the technical details, and explore how you can contribute or make use of our work. We're excited to have you here and look forward to seeing what we can accomplish together.
 
-We are Velis-
+We are Velyzo-

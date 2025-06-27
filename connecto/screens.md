@@ -2,7 +2,7 @@
 
 ## 🏠 Home Screen
 
-![Home Screen](https://github.com/VelisCore/Connecto/blob/main/preview/assets/Capture_d_%C3%A9cran_2025-02-06_%C3%A0_17.28.17-removebg-preview.png?raw=true)
+![Home Screen](https://github.com/Velyzo/Connecto/blob/main/preview/assets/Capture_d_%C3%A9cran_2025-02-06_%C3%A0_17.28.17-removebg-preview.png?raw=true)
 
 Welcome screen with a short intro.  
 💡 _Tip: Swipe to reach the main tool._
@@ -11,9 +11,9 @@ Welcome screen with a short intro.
 
 ## 🔧 Tool Screen
 
-![Tool 1](https://github.com/VelisCore/Connecto/blob/main/preview/assets/Capture_d_%C3%A9cran_2025-02-06_%C3%A0_17.28.29-removebg-preview.png?raw=true)  
-![Tool 2](https://github.com/VelisCore/Connecto/blob/main/preview/assets/Capture_d_%C3%A9cran_2025-02-06_%C3%A0_17.28.36-removebg-preview.png?raw=true)  
-![Tool 3](https://github.com/VelisCore/Connecto/blob/main/preview/assets/Capture_d_%C3%A9cran_2025-02-06_%C3%A0_17.28.42-removebg-preview.png?raw=true)
+![Tool 1](https://github.com/Velyzo/Connecto/blob/main/preview/assets/Capture_d_%C3%A9cran_2025-02-06_%C3%A0_17.28.29-removebg-preview.png?raw=true)  
+![Tool 2](https://github.com/Velyzo/Connecto/blob/main/preview/assets/Capture_d_%C3%A9cran_2025-02-06_%C3%A0_17.28.36-removebg-preview.png?raw=true)  
+![Tool 3](https://github.com/Velyzo/Connecto/blob/main/preview/assets/Capture_d_%C3%A9cran_2025-02-06_%C3%A0_17.28.42-removebg-preview.png?raw=true)
 
 ### Request Setup
 
@@ -29,7 +29,7 @@ Welcome screen with a short intro.
 
 ## 📞 Preset Screen
 
-![Presets](https://github.com/VelisCore/Connecto/blob/main/preview/assets/Capture_d_%C3%A9cran_2025-02-06_%C3%A0_17.28.47-removebg-preview.png?raw=true)
+![Presets](https://github.com/Velyzo/Connecto/blob/main/preview/assets/Capture_d_%C3%A9cran_2025-02-06_%C3%A0_17.28.47-removebg-preview.png?raw=true)
 
 Save your common configurations – no need to retype.
 
@@ -39,6 +39,6 @@ Save your common configurations – no need to retype.
 
 ## ℹ️ Info Screen
 
-![Info](https://github.com/VelisCore/Connecto/blob/main/preview/assets/Capture_d_%C3%A9cran_2025-02-06_%C3%A0_17.28.51-removebg-preview.png?raw=true)
+![Info](https://github.com/Velyzo/Connecto/blob/main/preview/assets/Capture_d_%C3%A9cran_2025-02-06_%C3%A0_17.28.51-removebg-preview.png?raw=true)
 
 Details about the app – or how to contact us 😉
